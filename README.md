@@ -1,5 +1,6 @@
 # Individual_Project_A
  
+An assignment implementing the following functionality:
 
 Building of a command prompt (console) application.
 
