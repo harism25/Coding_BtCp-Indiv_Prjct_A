@@ -1,4 +1,4 @@
-# Indiv_Prjct_A
+# Individual_Project_A
  
 
 Building of a command prompt (console) application.
